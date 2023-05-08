@@ -1,2 +1,2 @@
 # foundations-in-java
-Foundational Concept Practices In Java
+Foundational Concept Practiced In Java
