@@ -1,0 +1,3 @@
+Practicing using threads.
+
+Runnable Advantage: Is an interface. Therefore: class can still extend another class.
